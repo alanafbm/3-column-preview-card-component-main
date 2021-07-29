@@ -32,7 +32,7 @@
                                                                 color: rgb(242, 242, 242);
                                                                 padding-bottom: 50px;
                                                                 font-size: 11px;
-                                                                line-height: 2;
+                                                                line-height: 1.5;
                                                                 max-height: 150px;
                                                                 max-width: 200px;
                                                             }
@@ -128,7 +128,7 @@
                                                                     max-height: 300px;
                                                                 }
                                                                 .card p {
-                                                                    font-size: 12px;
+                                                                    font-size: 15px;
                                                                 }
                                                                 .wrapper {
                                                                     max-width: 500px;
