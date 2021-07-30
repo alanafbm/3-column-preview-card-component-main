@@ -105,14 +105,14 @@
                                                                 color: rgb(0, 66, 65);
                                                             }
                                                             
-                                                            @media (max-width: 900px) {
+                                                            @media (max-width: 1024px) {
                                                                 .html {
                                                                     position: relative;
                                                                 }
                                                                 .card {
                                                                     position: absolute;
                                                                     flex-direction: column;
-                                                                    max-width: 100px;
+                                                                    max-width: 900px;
                                                                     top: 0px;
                                                                     left: 0px;
                                                                 }
